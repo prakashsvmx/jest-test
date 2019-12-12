@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest",
+    "cov": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "babel-jest": "^24.9.0"
+  }
+}
